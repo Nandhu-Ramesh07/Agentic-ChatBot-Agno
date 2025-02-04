@@ -1,0 +1,5 @@
+# Ignore virtual environment
+phienv/
+
+# Ignore environment variables file
+.env
